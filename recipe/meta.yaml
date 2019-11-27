@@ -27,9 +27,11 @@ requirements:
   host:
     - r-base
     - r-htmltools
+    - r-rstudioapi
   run:
     - r-base
     - r-htmltools
+    - r-rstudioapi
 
 test:
   commands:
