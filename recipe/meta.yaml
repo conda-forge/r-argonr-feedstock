@@ -39,7 +39,7 @@ test:
 
 about:
   home: https://github.com/RinteRface/argonR
-  license: GPL-2
+  license: GPL-2.0-only
   summary: R wrapper around the argon HTML library. More at <https://demos.creative-tim.com/argon-design-system/>.
   license_family: GPL2
   license_file: '{{ environ["PREFIX"] }}/lib/R/share/licenses/GPL-2'
