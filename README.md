@@ -1,11 +1,11 @@
-About r-argonr
-==============
+About r-argonr-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-argonr-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/RinteRface/argonR
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-argonr-feedstock/blob/main/LICENSE.txt)
 
 Summary: R wrapper around the argon HTML library. More at <https://demos.creative-tim.com/argon-design-system/>.
 
